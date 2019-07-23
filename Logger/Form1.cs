@@ -6,6 +6,7 @@ namespace Logger
 {
     public partial class Logger : Form
     {
+    // testing 123
 
         int m_DefaultInterval = 10000;
         string m_Path = @"C:\Users\Anish\Desktop\log";
